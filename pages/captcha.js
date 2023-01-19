@@ -21,7 +21,7 @@ const Captcha = () => {
 
   return (
     <ReCAPTCHA
-      sitekey={"6LcPRAskAAAAACNRW5tQwNqpip2Z7tkZaOi5jQVW"}
+      sitekey={"yoursitekey"}
       onChange={onChange}
     />
   );
